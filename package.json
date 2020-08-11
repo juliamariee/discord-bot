@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/index.js"
+  },
+  "author": "Julia Marie",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+  }
+}
