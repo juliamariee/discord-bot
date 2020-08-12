@@ -306,7 +306,7 @@ exports.meme_list = [{
   {
     "id": "5496396",
     "name": "Leonardo Dicaprio Cheers",
-    "url": "https://i.imgflip.com/39t1o.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/001/259/121/809.png",
     "width": 600,
     "height": 400,
     "box_count": 2
