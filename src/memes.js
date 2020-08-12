@@ -250,7 +250,7 @@ exports.meme_list = [{
   {
     "id": "132769734",
     "name": "Hard To Swallow Pills",
-    "url": "https://i.imgflip.com/271ps6.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/001/351/884/f32.jpg",
     "width": 680,
     "height": 979,
     "box_count": 2
