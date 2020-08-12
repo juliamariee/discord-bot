@@ -304,14 +304,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "161865971",
-    "name": "Marked Safe From",
-    "url": "https://i.imgflip.com/2odckz.jpg",
-    "width": 618,
-    "height": 499,
-    "box_count": 2
-  },
-  {
     "id": "8072285",
     "name": "Doge",
     "url": "https://i.imgflip.com/4t0m5.jpg",
