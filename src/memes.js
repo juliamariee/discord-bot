@@ -34,7 +34,7 @@ exports.meme_list = [{
   {
     "id": "131087935",
     "name": "Running Away Balloon",
-    "url": "https://i.imgflip.com/261o3j.jpg",
+    "url": "https://i.imgflip.com/3y0eru.jpg",
     "width": 761,
     "height": 1024,
     "box_count": 5
