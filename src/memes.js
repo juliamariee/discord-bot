@@ -16,14 +16,6 @@ exports.meme_list = [{
     "box_count": 3
   },
   {
-    "id": "87743020",
-    "name": "Two Buttons",
-    "url": "https://i.imgflip.com/1g8my4.jpg",
-    "width": 600,
-    "height": 908,
-    "box_count": 2
-  },
-  {
     "id": "129242436",
     "name": "Change My Mind",
     "url": "https://i.imgflip.com/24y43o.jpg",
@@ -206,14 +198,6 @@ exports.meme_list = [{
     "width": 568,
     "height": 335,
     "box_count": 2
-  },
-  {
-    "id": "134797956",
-    "name": "American Chopper Argument",
-    "url": "https://i.imgflip.com/2896ro.jpg",
-    "width": 640,
-    "height": 1800,
-    "box_count": 5
   },
   {
     "id": "180190441",
