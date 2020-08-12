@@ -634,7 +634,7 @@ exports.meme_list = [{
   {
     "id": "29562797",
     "name": "I'm The Captain Now",
-    "url": "https://i.imgflip.com/hlmst.jpg",
+    "url": "https://i.kym-cdn.com/entries/icons/facebook/000/018/459/53697461.jpg",
     "width": 478,
     "height": 350,
     "box_count": 2
