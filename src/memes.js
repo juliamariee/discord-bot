@@ -226,7 +226,7 @@ exports.meme_list = [{
   {
     "id": "21735",
     "name": "The Rock Driving",
-    "url": "https://i.imgflip.com/grr.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg",
     "width": 568,
     "height": 700,
     "box_count": 2
