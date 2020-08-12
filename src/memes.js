@@ -290,7 +290,7 @@ exports.meme_list = [{
   {
     "id": "14371066",
     "name": "Star Wars Yoda",
-    "url": "https://i.imgflip.com/8k0sa.jpg",
+    "url": "https://illumeably-bfemqo5fqfr.netdna-ssl.com/wp-content/uploads/2020/03/27-4aca3f56ce04e2cf35020a314721684f.jpg",
     "width": 620,
     "height": 714,
     "box_count": 2
