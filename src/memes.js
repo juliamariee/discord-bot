@@ -520,14 +520,6 @@ exports.meme_list = [{
     "box_count": 4
   },
   {
-    "id": "157978092",
-    "name": "Presidential Alert",
-    "url": "https://i.imgflip.com/2m20oc.jpg",
-    "width": 920,
-    "height": 534,
-    "box_count": 2
-  },
-  {
     "id": "170715647",
     "name": "Well Yes, But Actually No",
     "url": "https://i.imgflip.com/2tn11b.jpg",
