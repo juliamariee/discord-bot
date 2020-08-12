@@ -336,14 +336,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "61539",
-    "name": "First World Problems",
-    "url": "https://i.imgflip.com/1bhf.jpg",
-    "width": 552,
-    "height": 367,
-    "box_count": 2
-  },
-  {
     "id": "563423",
     "name": "That Would Be Great",
     "url": "https://i.imgflip.com/c2qn.jpg",
