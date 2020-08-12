@@ -344,14 +344,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "101288",
-    "name": "Third World Skeptical Kid",
-    "url": "https://i.imgflip.com/265k.jpg",
-    "width": 426,
-    "height": 426,
-    "box_count": 2
-  },
-  {
     "id": "8072285",
     "name": "Doge",
     "url": "https://i.imgflip.com/4t0m5.jpg",
@@ -397,14 +389,6 @@ exports.meme_list = [{
     "url": "https://i.imgflip.com/1wz1x.jpg",
     "width": 300,
     "height": 418,
-    "box_count": 2
-  },
-  {
-    "id": "101287",
-    "name": "Third World Success Kid",
-    "url": "https://i.imgflip.com/265j.jpg",
-    "width": 500,
-    "height": 500,
     "box_count": 2
   },
   {
