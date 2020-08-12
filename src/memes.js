@@ -114,7 +114,7 @@ exports.meme_list = [{
   {
     "id": "100777631",
     "name": "Is This A Pigeon",
-    "url": "https://i.imgflip.com/1o00in.jpg",
+    "url": "https://i.ytimg.com/vi/Hsi0735YcxM/maxresdefault.jpg",
     "width": 1587,
     "height": 1425,
     "box_count": 3
@@ -362,7 +362,7 @@ exports.meme_list = [{
   {
     "id": "235589",
     "name": "Evil Toddler",
-    "url": "https://i.imgflip.com/51s5.jpg",
+    "url": "https://i.imgflip.com/295q2d.jpg",
     "width": 500,
     "height": 332,
     "box_count": 2
