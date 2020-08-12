@@ -154,7 +154,7 @@ exports.meme_list = [{
   {
     "id": "155067746",
     "name": "Surprised Pikachu",
-    "url": "https://i.imgflip.com/2kbn1e.jpg",
+    "url": "https://i.pinimg.com/736x/c7/7b/91/c77b912d35c4ee94706fb6dd3e5cf21f.jpg",
     "width": 1893,
     "height": 1893,
     "box_count": 3
