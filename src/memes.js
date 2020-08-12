@@ -240,28 +240,12 @@ exports.meme_list = [{
     "box_count": 3
   },
   {
-    "id": "91545132",
-    "name": "Trump Bill Signing",
-    "url": "https://i.imgflip.com/1ii4oc.jpg",
-    "width": 1866,
-    "height": 1529,
-    "box_count": 2
-  },
-  {
     "id": "21735",
     "name": "The Rock Driving",
     "url": "https://i.imgflip.com/grr.jpg",
     "width": 568,
     "height": 700,
     "box_count": 2
-  },
-  {
-    "id": "135678846",
-    "name": "Who Killed Hannibal",
-    "url": "https://i.imgflip.com/28s2gu.jpg",
-    "width": 1280,
-    "height": 1440,
-    "box_count": 3
   },
   {
     "id": "175540452",
