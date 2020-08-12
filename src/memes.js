@@ -498,7 +498,7 @@ exports.meme_list = [{
   {
     "id": "444501",
     "name": "Maury Lie Detector",
-    "url": "https://i.imgflip.com/9iz9.jpg",
+    "url": "https://i.imgflip.com/2h8zaa.jpg",
     "width": 381,
     "height": 378,
     "box_count": 2
