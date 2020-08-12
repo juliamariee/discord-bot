@@ -21,7 +21,8 @@ client.on("message", async (msg) => {
     if (msg.content == "!addmeme") {
       await msg.channel.send({
         embed: {
-          description: "Message JuliaM#1335 with a title for your meme and a link to the image to get your meme added to the bot!"
+          title: "Fill out the form to add a meme to the meme bot!",
+          description: "https://docs.google.com/forms/d/e/1FAIpQLSe9tlpd_Th9lTjtrskIw0lyxmNIbkZ9IJ8E0Vr0_nl5IXEfWg/viewform?usp=sf_link"
         }
       });
     }
