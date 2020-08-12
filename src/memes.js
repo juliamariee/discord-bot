@@ -144,14 +144,6 @@ exports.meme_list = [{
     "box_count": 3
   },
   {
-    "id": "135256802",
-    "name": "Epic Handshake",
-    "url": "https://i.imgflip.com/28j0te.jpg",
-    "width": 900,
-    "height": 645,
-    "box_count": 3
-  },
-  {
     "id": "178591752",
     "name": "Tuxedo Winnie The Pooh",
     "url": "https://i.imgflip.com/2ybua0.png",
@@ -653,14 +645,6 @@ exports.meme_list = [{
     "url": "https://i.imgflip.com/1x6f.jpg",
     "width": 620,
     "height": 833,
-    "box_count": 2
-  },
-  {
-    "id": "1202623",
-    "name": "Keep Calm And Carry On Red",
-    "url": "https://i.imgflip.com/pry7.jpg",
-    "width": 500,
-    "height": 704,
     "box_count": 2
   },
   {
