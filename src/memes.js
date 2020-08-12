@@ -34,7 +34,7 @@ exports.meme_list = [{
   {
     "id": "217743513",
     "name": "UNO Draw 25 Cards",
-    "url": "https://i.imgflip.com/3lmzyx.jpg",
+    "url": "https://ruinmyweek.com/wp-content/uploads/2020/01/draw-25-uno-meme-6.png",
     "width": 500,
     "height": 494,
     "box_count": 2
