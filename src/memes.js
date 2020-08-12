@@ -274,7 +274,7 @@ exports.meme_list = [{
   {
     "id": "61520",
     "name": "Futurama Fry",
-    "url": "https://i.imgflip.com/1bgw.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/000/131/351/eb6.jpg?1307463786",
     "width": 552,
     "height": 414,
     "box_count": 2
