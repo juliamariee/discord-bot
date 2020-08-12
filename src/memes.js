@@ -328,14 +328,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "101910402",
-    "name": "Who Would Win?",
-    "url": "https://i.imgflip.com/1ooaki.jpg",
-    "width": 802,
-    "height": 500,
-    "box_count": 2
-  },
-  {
     "id": "563423",
     "name": "That Would Be Great",
     "url": "https://i.imgflip.com/c2qn.jpg",
