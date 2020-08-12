@@ -1,7 +1,6 @@
 const Discord = require("discord.js");
 const memes = require('./memes.js');
 const BOT_TOKEN = 'NzQyODM4MDY1NjcxOTYyNzA0.XzL73A.-gBVMldBtyinpOpMNAwdhSWdTZQ'
-
 const client = new Discord.Client();
 
 client.once('ready', () => {
