@@ -176,14 +176,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "123999232",
-    "name": "The Scroll Of Truth",
-    "url": "https://i.imgflip.com/21tqf4.jpg",
-    "width": 1280,
-    "height": 1236,
-    "box_count": 2
-  },
-  {
     "id": "91538330",
     "name": "X, X Everywhere",
     "url": "https://i.imgflip.com/1ihzfe.jpg",
@@ -458,7 +450,7 @@ exports.meme_list = [{
   {
     "id": "6531067",
     "name": "See Nobody Cares",
-    "url": "https://i.imgflip.com/3vzej.jpg",
+    "url": "https://i.redd.it/jj1rqigd0c121.jpg",
     "width": 620,
     "height": 676,
     "box_count": 2
@@ -562,7 +554,7 @@ exports.meme_list = [{
   {
     "id": "61580",
     "name": "Too Damn High",
-    "url": "https://i.imgflip.com/1bik.jpg",
+    "url": "https://www.memecreator.org/static/images/memes/1238.jpg",
     "width": 420,
     "height": 316,
     "box_count": 2
@@ -581,14 +573,6 @@ exports.meme_list = [{
     "url": "https://i.imgflip.com/govs4.jpg",
     "width": 423,
     "height": 734,
-    "box_count": 2
-  },
-  {
-    "id": "89655",
-    "name": "Uncle Sam",
-    "url": "https://i.imgflip.com/1x6f.jpg",
-    "width": 620,
-    "height": 833,
     "box_count": 2
   },
   {
@@ -634,7 +618,7 @@ exports.meme_list = [{
   {
     "id": "109765",
     "name": "I'll Just Wait Here",
-    "url": "https://i.imgflip.com/2cp1.jpg",
+    "url": "https://imgflip.com/i/1q6iqf#dMhgqXQMoLprqex2.32",
     "width": 491,
     "height": 550,
     "box_count": 2
