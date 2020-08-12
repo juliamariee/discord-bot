@@ -249,8 +249,8 @@ exports.meme_list = [{
   },
   {
     "id": "28251713",
-    "name": "Oprah You Get A",
-    "url": "https://i.imgflip.com/gtj5t.jpg",
+    "name": "Thomas Has Never Seen Such Bullshit",
+    "url": "https://i.redd.it/a8kn1bt96ml31.jpg",
     "width": 620,
     "height": 465,
     "box_count": 2
