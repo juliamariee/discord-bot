@@ -256,14 +256,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "124055727",
-    "name": "Y'all Got Any More Of That",
-    "url": "https://i.imgflip.com/21uy0f.jpg",
-    "width": 600,
-    "height": 471,
-    "box_count": 2
-  },
-  {
     "id": "6235864",
     "name": "Finding Neverland",
     "url": "https://i.imgflip.com/3pnmg.jpg",
