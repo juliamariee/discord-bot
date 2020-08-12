@@ -474,7 +474,7 @@ exports.meme_list = [{
   {
     "id": "170715647",
     "name": "Well Yes, But Actually No",
-    "url": "https://i.imgflip.com/2tn11b.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/001/461/050/f95.jpg",
     "width": 1600,
     "height": 1218,
     "box_count": 2
