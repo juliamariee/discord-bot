@@ -104,14 +104,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "1035805",
-    "name": "Boardroom Meeting Suggestion",
-    "url": "https://i.imgflip.com/m78d.jpg",
-    "width": 500,
-    "height": 649,
-    "box_count": 4
-  },
-  {
     "id": "119139145",
     "name": "Blank Nut Button",
     "url": "https://i.imgflip.com/1yxkcp.jpg",
