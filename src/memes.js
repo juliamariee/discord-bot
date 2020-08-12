@@ -626,7 +626,7 @@ exports.meme_list = [{
   {
     "id": "1367068",
     "name": "I Should Buy A Boat Cat",
-    "url": "https://i.imgflip.com/tau4.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/000/431/312/67e.jpg",
     "width": 500,
     "height": 368,
     "box_count": 2
