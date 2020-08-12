@@ -56,14 +56,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "124822590",
-    "name": "Left Exit 12 Off Ramp",
-    "url": "https://i.imgflip.com/22bdq6.jpg",
-    "width": 804,
-    "height": 767,
-    "box_count": 3
-  },
-  {
     "id": "93895088",
     "name": "Expanding Brain",
     "url": "https://i.imgflip.com/1jwhww.jpg",
