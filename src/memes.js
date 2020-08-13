@@ -602,7 +602,7 @@ exports.meme_list = [{
   {
     "id": "371382",
     "name": "Simba Shadowy Place",
-    "url": "https://i.imgflip.com/7yk6.jpg",
+    "url": "https://i.imgflip.com/a511j.jpg",
     "width": 363,
     "height": 720,
     "box_count": 2
