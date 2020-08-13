@@ -648,14 +648,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "259680",
-    "name": "Am I The Only One Around Here",
-    "url": "https://i.imgflip.com/5kdc.jpg",
-    "width": 500,
-    "height": 348,
-    "box_count": 2
-  },
-  {
     "name": "McFucking had it",
     "url": "https://imgur.com/gallery/jjc9U2g"
   }
