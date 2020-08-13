@@ -642,7 +642,7 @@ exports.meme_list = [{
   {
     "id": "195389",
     "name": "Sparta Leonidas",
-    "url": "https://i.imgflip.com/46rh.jpg",
+    "url": "https://i.imgflip.com/4593oh.jpg",
     "width": 500,
     "height": 264,
     "box_count": 2
