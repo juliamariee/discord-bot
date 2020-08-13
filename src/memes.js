@@ -626,7 +626,7 @@ exports.meme_list = [{
   {
     "id": "61516",
     "name": "Philosoraptor",
-    "url": "https://i.imgflip.com/1bgs.jpg",
+    "url": "https://confessionsofabeerconnoisseur.files.wordpress.com/2013/10/philosoraptor-meme-argument-between-two-vegans.jpg?w=400",
     "width": 500,
     "height": 500,
     "box_count": 2
@@ -634,7 +634,7 @@ exports.meme_list = [{
   {
     "id": "56225174",
     "name": "Be Like Bill",
-    "url": "https://i.imgflip.com/xh3me.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Be_like_Bill_Fix_Wikipedia.png",
     "width": 913,
     "height": 907,
     "box_count": 4
