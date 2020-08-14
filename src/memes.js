@@ -224,14 +224,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "563423",
-    "name": "That Would Be Great",
-    "url": "https://i.imgflip.com/c2qn.jpg",
-    "width": 526,
-    "height": 440,
-    "box_count": 2
-  },
-  {
     "id": "16464531",
     "name": "But That's None Of My Business",
     "url": "https://i.kym-cdn.com/photos/images/newsfeed/000/782/935/ce2.png",
