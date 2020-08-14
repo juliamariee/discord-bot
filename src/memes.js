@@ -130,7 +130,7 @@ exports.meme_list = [{
   {
     "id": "61579",
     "name": "One Does Not Simply",
-    "url": "https://i.imgflip.com/1bij.jpg",
+    "url": "https://i.imgflip.com/3rgheh.jpg",
     "width": 568,
     "height": 335,
     "box_count": 2
