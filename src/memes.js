@@ -32,14 +32,6 @@ exports.meme_list = [{
     "box_count": 4
   },
   {
-    "id": "188390779",
-    "name": "Woman Yelling At Cat",
-    "url": "https://i.imgflip.com/345v97.jpg",
-    "width": 680,
-    "height": 438,
-    "box_count": 2
-  },
-  {
     "id": "119139145",
     "name": "Blank Nut Button",
     "url": "https://i.imgflip.com/1yxkcp.jpg",
