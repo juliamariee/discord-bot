@@ -560,14 +560,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "40945639",
-    "name": "Dr Evil Laser",
-    "url": "https://i.imgflip.com/odluv.jpg",
-    "width": 500,
-    "height": 405,
-    "box_count": 2
-  },
-  {
     "id": "109765",
     "name": "I'll Just Wait Here",
     "url": "https://imgflip.com/i/1q6iqf#dMhgqXQMoLprqex2.32",
