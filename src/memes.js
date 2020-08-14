@@ -72,14 +72,6 @@ exports.meme_list = [{
     "box_count": 3
   },
   {
-    "id": "178591752",
-    "name": "Tuxedo Winnie The Pooh",
-    "url": "https://i.imgflip.com/2ybua0.png",
-    "width": 800,
-    "height": 582,
-    "box_count": 2
-  },
-  {
     "id": "80707627",
     "name": "Sad Pablo Escobar",
     "url": "https://i.imgflip.com/1c1uej.jpg",
