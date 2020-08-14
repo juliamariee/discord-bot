@@ -288,14 +288,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "61527",
-    "name": "Y U No",
-    "url": "https://i.imgflip.com/1bh3.jpg",
-    "width": 500,
-    "height": 500,
-    "box_count": 2
-  },
-  {
     "id": "235589",
     "name": "Evil Toddler",
     "url": "https://i.imgflip.com/295q2d.jpg",
