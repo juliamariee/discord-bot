@@ -330,7 +330,7 @@ exports.meme_list = [{
   {
     "id": "21604248",
     "name": "Mugatu So Hot Right Now",
-    "url": "https://i.imgflip.com/3nzo8a.jpgg",
+    "url": "https://i.imgflip.com/3nzo8a.jpg",
     "width": 620,
     "height": 497,
     "box_count": 2
