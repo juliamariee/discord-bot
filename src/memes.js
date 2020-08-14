@@ -120,14 +120,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "180190441",
-    "name": "They're The Same Picture",
-    "url": "https://i.imgflip.com/2za3u1.jpg",
-    "width": 1363,
-    "height": 1524,
-    "box_count": 3
-  },
-  {
     "id": "21735",
     "name": "The Rock Driving",
     "url": "https://i.kym-cdn.com/photos/images/masonry/000/873/442/5b0.jpg",
