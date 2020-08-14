@@ -528,22 +528,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "101716",
-    "name": "Yo Dawg Heard You",
-    "url": "https://i.imgflip.com/26hg.jpg",
-    "width": 500,
-    "height": 323,
-    "box_count": 2
-  },
-  {
-    "id": "28034788",
-    "name": "Marvel Civil War 1",
-    "url": "https://i.imgflip.com/govs4.jpg",
-    "width": 423,
-    "height": 734,
-    "box_count": 2
-  },
-  {
     "id": "27920",
     "name": "Surprised Koala",
     "url": "https://i.imgflip.com/ljk.jpg",
