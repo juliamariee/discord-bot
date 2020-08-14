@@ -248,17 +248,9 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "14230520",
-    "name": "Black Girl Wat",
-    "url": "https://i.imgflip.com/8h0c8.jpg",
-    "width": 599,
-    "height": 626,
-    "box_count": 2
-  },
-  {
     "id": "163573",
     "name": "Imagination Spongebob",
-    "url": "https://i.imgflip.com/3i7p.jpg",
+    "url": "https://i.pinimg.com/originals/89/0f/92/890f92f1dba99065531aa2bc1b6b9c45.jpg",
     "width": 500,
     "height": 366,
     "box_count": 2
