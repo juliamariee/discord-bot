@@ -40,14 +40,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "222403160",
-    "name": "Bernie I Am Once Again Asking For Your Support",
-    "url": "https://i.imgflip.com/3oevdk.jpg",
-    "width": 750,
-    "height": 750,
-    "box_count": 2
-  },
-  {
     "id": "188390779",
     "name": "Woman Yelling At Cat",
     "url": "https://i.imgflip.com/345v97.jpg",
