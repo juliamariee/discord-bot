@@ -290,7 +290,7 @@ exports.meme_list = [{
   {
     "id": "61556",
     "name": "Grandma Finds The Internet",
-    "url": "https://i.imgflip.com/1bhw.jpg",
+    "url": "https://sayingimages.com/wp-content/uploads/grandma-finds-the-internet-meme.jpg",
     "width": 640,
     "height": 480,
     "box_count": 2
