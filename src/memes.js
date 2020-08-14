@@ -416,14 +416,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "61544",
-    "name": "Success Kid",
-    "url": "https://i.imgflip.com/1bhk.jpg",
-    "width": 500,
-    "height": 500,
-    "box_count": 2
-  },
-  {
     "id": "405658",
     "name": "Grumpy Cat",
     "url": "https://i.imgflip.com/8p0a.jpg",
