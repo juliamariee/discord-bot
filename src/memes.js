@@ -8,14 +8,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "112126428",
-    "name": "Distracted Boyfriend",
-    "url": "https://i.imgflip.com/1ur9b0.jpg",
-    "width": 1200,
-    "height": 800,
-    "box_count": 3
-  },
-  {
     "id": "129242436",
     "name": "Change My Mind",
     "url": "https://i.imgflip.com/24y43o.jpg",
