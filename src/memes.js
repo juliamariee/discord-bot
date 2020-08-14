@@ -32,14 +32,6 @@ exports.meme_list = [{
     "box_count": 4
   },
   {
-    "id": "438680",
-    "name": "Batman Slapping Robin",
-    "url": "https://i.imgflip.com/9ehk.jpg",
-    "width": 400,
-    "height": 387,
-    "box_count": 2
-  },
-  {
     "id": "188390779",
     "name": "Woman Yelling At Cat",
     "url": "https://i.imgflip.com/345v97.jpg",
