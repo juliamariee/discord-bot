@@ -96,14 +96,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "114585149",
-    "name": "Inhaling Seagull",
-    "url": "https://i.imgflip.com/1w7ygt.jpg",
-    "width": 1269,
-    "height": 2825,
-    "box_count": 4
-  },
-  {
     "id": "80707627",
     "name": "Sad Pablo Escobar",
     "url": "https://i.imgflip.com/1c1uej.jpg",
