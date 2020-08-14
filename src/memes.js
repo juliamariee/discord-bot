@@ -242,7 +242,7 @@ exports.meme_list = [{
   {
     "id": "8072285",
     "name": "Doge",
-    "url": "https://i.imgflip.com/4t0m5.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Original_Doge_meme.jpg/300px-Original_Doge_meme.jpg",
     "width": 620,
     "height": 620,
     "box_count": 5
