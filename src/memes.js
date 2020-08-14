@@ -296,14 +296,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "460541",
-    "name": "Jack Sparrow Being Chased",
-    "url": "https://i.imgflip.com/9vct.jpg",
-    "width": 500,
-    "height": 375,
-    "box_count": 2
-  },
-  {
     "id": "163573",
     "name": "Imagination Spongebob",
     "url": "https://i.imgflip.com/3i7p.jpg",
