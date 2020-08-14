@@ -48,14 +48,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "148909805",
-    "name": "Monkey Puppet",
-    "url": "https://i.imgflip.com/2gnnjh.jpg",
-    "width": 923,
-    "height": 768,
-    "box_count": 2
-  },
-  {
     "id": "188390779",
     "name": "Woman Yelling At Cat",
     "url": "https://i.imgflip.com/345v97.jpg",
