@@ -50,7 +50,7 @@ exports.meme_list = [{
   {
     "id": "4087833",
     "name": "Waiting Skeleton",
-    "url": "https://i.imgflip.com/2fm6x.jpg",
+    "url": "https://i.kym-cdn.com/photos/images/newsfeed/000/888/161/7c3.jpg",
     "width": 298,
     "height": 403,
     "box_count": 2
