@@ -312,14 +312,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "53764",
-    "name": "Peter Parker Cry",
-    "url": "https://i.imgflip.com/15hg.jpg",
-    "width": 400,
-    "height": 992,
-    "box_count": 4
-  },
-  {
     "id": "170715647",
     "name": "Well Yes, But Actually No",
     "url": "https://i.kym-cdn.com/photos/images/newsfeed/001/461/050/f95.jpg",
