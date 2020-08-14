@@ -368,14 +368,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "71428573",
-    "name": "Say it Again, Dexter",
-    "url": "https://i.imgflip.com/16iyn1.jpg",
-    "width": 698,
-    "height": 900,
-    "box_count": 2
-  },
-  {
     "id": "4173692",
     "name": "Scared Cat",
     "url": "https://i.imgflip.com/2hgfw.jpg",
