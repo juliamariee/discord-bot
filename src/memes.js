@@ -57,8 +57,8 @@ exports.meme_list = [{
   },
   {
     "id": "226297822",
-    "name": "Panik Kalm Panik",
-    "url": "https://i.imgflip.com/3qqcim.png",
+    "name": "Stonks",
+    "url": "https://i.kym-cdn.com/entries/icons/mobile/000/029/959/Screen_Shot_2019-06-05_at_1.26.32_PM.jpg",
     "width": 640,
     "height": 881,
     "box_count": 3
