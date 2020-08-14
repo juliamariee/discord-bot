@@ -256,14 +256,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "6531067",
-    "name": "See Nobody Cares",
-    "url": "https://i.redd.it/jj1rqigd0c121.jpg",
-    "width": 620,
-    "height": 676,
-    "box_count": 2
-  },
-  {
     "id": "61585",
     "name": "Bad Luck Brian",
     "url": "https://i.imgflip.com/1bip.jpg",
