@@ -280,14 +280,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "99683372",
-    "name": "Sleeping Shaq",
-    "url": "https://i.imgflip.com/1nck6k.jpg",
-    "width": 640,
-    "height": 631,
-    "box_count": 2
-  },
-  {
     "id": "55311130",
     "name": "This Is Fine",
     "url": "https://i.imgflip.com/wxica.jpg",
