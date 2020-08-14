@@ -320,14 +320,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "100947",
-    "name": "Matrix Morpheus",
-    "url": "https://i.imgflip.com/25w3.jpg",
-    "width": 500,
-    "height": 303,
-    "box_count": 2
-  },
-  {
     "id": "163573",
     "name": "Imagination Spongebob",
     "url": "https://i.imgflip.com/3i7p.jpg",
