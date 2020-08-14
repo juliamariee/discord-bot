@@ -152,14 +152,6 @@ exports.meme_list = [{
     "box_count": 3
   },
   {
-    "id": "89370399",
-    "name": "Roll Safe Think About It",
-    "url": "https://i.imgflip.com/1h7in3.jpg",
-    "width": 702,
-    "height": 395,
-    "box_count": 2
-  },
-  {
     "id": "97984",
     "name": "Disaster Girl",
     "url": "https://i.imgflip.com/23ls.jpg",
@@ -333,14 +325,6 @@ exports.meme_list = [{
     "url": "https://i.imgflip.com/9sw43.jpg",
     "width": 600,
     "height": 600,
-    "box_count": 2
-  },
-  {
-    "id": "922147",
-    "name": "Laughing Men In Suits",
-    "url": "https://i.imgflip.com/jrj7.jpg",
-    "width": 500,
-    "height": 333,
     "box_count": 2
   },
   {
