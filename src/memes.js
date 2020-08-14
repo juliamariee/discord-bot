@@ -392,14 +392,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "29617627",
-    "name": "Look At Me",
-    "url": "https://i.imgflip.com/hmt3v.jpg",
-    "width": 300,
-    "height": 300,
-    "box_count": 2
-  },
-  {
     "id": "285870",
     "name": "Squidward",
     "url": "https://i.imgflip.com/64ku.jpg",
