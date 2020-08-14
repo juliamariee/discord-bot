@@ -1,21 +1,5 @@
 // removed back slashes from URLs
 exports.meme_list = [{
-    "id": "181913649",
-    "name": "Drake Hotline Bling",
-    "url": "https://i.imgflip.com/30b1gx.jpg",
-    "width": 1200,
-    "height": 1200,
-    "box_count": 2
-  },
-  {
-    "id": "129242436",
-    "name": "Change My Mind",
-    "url": "https://i.imgflip.com/24y43o.jpg",
-    "width": 482,
-    "height": 361,
-    "box_count": 2
-  },
-  {
     "id": "131087935",
     "name": "Running Away Balloon",
     "url": "https://i.imgflip.com/3y0eru.jpg",
