@@ -280,14 +280,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "3218037",
-    "name": "This Is Where I'd Put My Trophy If I Had One",
-    "url": "https://i.imgflip.com/1wz1x.jpg",
-    "width": 300,
-    "height": 418,
-    "box_count": 2
-  },
-  {
     "id": "101511",
     "name": "Don't You Squidward",
     "url": "https://i.imgflip.com/26br.jpg",
