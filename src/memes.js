@@ -568,14 +568,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "184801100",
-    "name": "Me And The Boys",
-    "url": "https://i.imgflip.com/320xfw.jpg",
-    "width": 720,
-    "height": 476,
-    "box_count": 2
-  },
-  {
     "id": "109765",
     "name": "I'll Just Wait Here",
     "url": "https://imgflip.com/i/1q6iqf#dMhgqXQMoLprqex2.32",
