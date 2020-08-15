@@ -128,14 +128,6 @@ exports.meme_list = [{
     "box_count": 2
   },
   {
-    "id": "6235864",
-    "name": "Finding Neverland",
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQW2CwEGAYR6ILWP6eWOPIWrkRvRq3LgGx4KZozArXWnw&usqp=CAU&ec=45690269",
-    "width": 423,
-    "height": 600,
-    "box_count": 3
-  },
-  {
     "id": "132769734",
     "name": "Hard To Swallow Pills",
     "url": "https://i.kym-cdn.com/photos/images/newsfeed/001/351/884/f32.jpg",
