@@ -1,3 +1,17 @@
+/*
+Things to add:
+[] Poll command
+  [] Yes/No questions
+  [] Multiple choice questions
+[] Game commands
+  [] Tic Tac Toe
+  [] Hangman?
+[] Eightball command
+[] Calculator commands?  
+*/
+
+
+
 const Discord = require("discord.js");
 const memes = require('./memes.js');
 const BOT_TOKEN = 'NzQyODM4MDY1NjcxOTYyNzA0.XzL73A.-gBVMldBtyinpOpMNAwdhSWdTZQ'
