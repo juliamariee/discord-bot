@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const memes = require('./memes.js');
-const BOT_TOKEN = 'NzQyODM4MDY1NjcxOTYyNzA0.XzL73A.-gBVMldBtyinpOpMNAwdhSWdTZQ'
+require('dotenv').config();
+const BOT_TOKEN = process.env.BOT_TOKEN;
 const client = new Discord.Client();
 
 client.once('ready', () => {
