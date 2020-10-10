@@ -1,12 +1,13 @@
 A meme bot for discord!
 
 Commands:
-    * !meme
+     
+    !meme
         sends a random meme from the memes.js file
     
-    * !addmeme
+     !addmeme
         add a meme to the database
     
-    * !help
+     !help
         lists all available meme bot commands
 
